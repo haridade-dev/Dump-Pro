@@ -11,7 +11,8 @@
       "expires_in": "vitalicia",
       "active": true,
       "allowed_ips": [
-        "189.91.249.201"
+        "189.91.249.201",
+        "167.250.149.49"
       ]
     }
   ]
