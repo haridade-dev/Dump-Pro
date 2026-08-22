@@ -5,13 +5,13 @@
   "message": "Licença inválida ou IP não autorizado.",
   "licenses": [
     {
-      "client": "Dump Free",
+      "client": "Dump Pro",
       "key": "lic-cliente-003",
       "type": "lifetime",
       "expires_in": "vitalicia",
       "active": true,
       "allowed_ips": [
-        "179.94.54.103",
+        "179.94.53.212",
         "167.250.149.29",
         "167.250.149.193",
         "200.202.97.155"
